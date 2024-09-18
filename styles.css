@@ -1,0 +1,21 @@
+*{
+    background-color: #dcdbdc;
+    font-family: sans-serif;
+}
+h1,h2,h3{
+    text-align: center;
+}
+h2{
+    color: #653590;
+}
+tr,td,h3,strong{
+    background-color: #dda0dc;
+}
+table,tr,td{
+    border: 5px solid #8f3aba;
+}
+
+td.code {
+    font-family: monospace;
+ background-color: #f5f5db;
+}
